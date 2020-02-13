@@ -1,0 +1,9 @@
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\bin\Debug\HotkeyExample.exe
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\bin\Debug\HotkeyExample.pdb
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\obj\Debug\HotkeyExample.csprojAssemblyReference.cache
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\obj\Debug\HotkeyExample.Form1.resources
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\obj\Debug\HotkeyExample.Properties.Resources.resources
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\obj\Debug\HotkeyExample.csproj.GenerateResource.cache
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\obj\Debug\HotkeyExample.csproj.CoreCompileInputs.cache
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\obj\Debug\HotkeyExample.exe
+C:\Users\SKO\source\repos\HotkeyExample\HotkeyExample\obj\Debug\HotkeyExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\SKO\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+C:\Users\SKO\source\repos\LoginPage\LoginPage\obj\Debug\LoginForumz.Properties.Resources.resources
+C:\Users\SKO\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.cache
+C:\Users\SKO\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.CoreCompileInputs.cache
+C:\Users\SKO\source\repos\LoginPage\LoginPage\bin\Debug\LoginExample.exe.config
+C:\Users\SKO\source\repos\LoginPage\LoginPage\bin\Debug\LoginExample.exe
+C:\Users\SKO\source\repos\LoginPage\LoginPage\bin\Debug\LoginExample.pdb
+C:\Users\SKO\source\repos\LoginPage\LoginPage\obj\Debug\LoginExample.exe
+C:\Users\SKO\source\repos\LoginPage\LoginPage\obj\Debug\LoginExample.pdb
+C:\Users\SKO\source\repos\LoginPage\LoginPage\obj\Debug\LoginPage.csprojAssemblyReference.cache
+C:\Users\SKO\source\repos\LoginPage\LoginPage\obj\Debug\LoginForumz.Form2.resources
