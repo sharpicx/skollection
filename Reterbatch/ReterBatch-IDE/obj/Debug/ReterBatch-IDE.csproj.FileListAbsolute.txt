@@ -1,0 +1,12 @@
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\obj\Debug\ReterBatch-IDE.csprojAssemblyReference.cache
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\obj\Debug\ReterBatch_IDE.Form1.resources
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\obj\Debug\ReterBatch-IDE.csproj.GenerateResource.cache
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\obj\Debug\ReterBatch-IDE.csproj.CoreCompileInputs.cache
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\obj\Debug\ReterBatch-IDE.csproj.CopyComplete
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\bin\Debug\ReterBatch Editor.exe.config
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\bin\Debug\ReterBatch Editor.exe
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\bin\Debug\ReterBatch Editor.pdb
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\obj\Debug\ShitApp.Properties.Resources.resources
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\obj\Debug\ReterBatch Editor.exe
+C:\Users\SKO\source\repos\ReterBatch-IDE\ReterBatch-IDE\obj\Debug\ReterBatch Editor.pdb
