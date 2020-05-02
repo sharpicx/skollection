@@ -13,7 +13,7 @@ using ArrezThumb.Properties;
 
 namespace ArrezThumb
 {
-    // Made by Skofos @ hackforums.net
+    // Made by Skofos
     public partial class Form1 : Form
     {
         public Form1()
@@ -79,7 +79,8 @@ namespace ArrezThumb
                 }
             }
         }
-
+        
+        //lmao lazy to code xd
         private void button2_Click(object sender, EventArgs e)
         {
             DialogResult __ = ___.ShowDialog();
