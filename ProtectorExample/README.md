@@ -9,6 +9,3 @@
 <br/>
 simple protector that rename methods and types with Mono.Cecil packages.
 Written in C# Languages.
-
-### Another Projects
-[Skofos's Projects](https://sko0o.github.io/projects)
